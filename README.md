@@ -1,10 +1,10 @@
-##Softwares:
+## Softwares:
 - 1=>Eclipse/Netbeans/Intelli]
 - 2=>TomcatServer
 - 3=>Mysql for database
 - 4=>Sqlyog /workbench / phpmyadmin for mysql gui
 
-##Steps done:
+## Steps done:
 - 1-Create maven project
 - 2-Adding dependencies =>spring core , spring context
 - 3-creating beans-java pojo
