@@ -14,4 +14,10 @@ http://www.springframework.org/schema/context/spring-context.xsd">
 			<value>Delhi</value>
 		</property>
 	</bean>
+	<bean class="agarw.diksha.springcore.Student" name="student2">
+		<property name="studentId" value="24" />
+		<property name="studentName" value="Mayank" />
+		<property name="studentAddress" value="Delhi" />
+	</bean>
+	<bean class="agarw.diksha.springcore.Student" name="student3" p:studentId="36" p:studentName="Nirmala" p:studentAddress="Bathinda"/>
 </beans>
