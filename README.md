@@ -9,5 +9,5 @@
 - 2-Adding dependencies =>spring core , spring context
 - 3-creating beans-java pojo
 - 4-creating configuration file=>config.xml
-- 5-setter Injection
+- 5-setter Injection used
 - 6-Main class which can pull the object and use
